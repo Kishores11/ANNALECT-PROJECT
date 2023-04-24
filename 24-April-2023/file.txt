@@ -1,0 +1,6 @@
+Git
+
+1)Learned git basics command like pill,push,add to staging area,git commit
+2)Learned how to initialise git into a file and also cloning a git repo into local system
+3)Created branches and tried out merging a sub branch into main branch
+4)And some basic commands like git diff, git status and read documentation.
