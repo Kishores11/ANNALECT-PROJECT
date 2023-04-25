@@ -1,1 +1,9 @@
-#will update tomorrow
+Flask
+1) Went through the  flask-migrate documentation.
+
+Annalect - Report builder
+1) Today afternoon we got the access for bitbucket link. I cloned the project in my local system and went through the
+   code base.
+
+WSL
+1) Watched youtube video on how to integrate wsl with vscode.
