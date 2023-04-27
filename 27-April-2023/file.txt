@@ -1,0 +1,7 @@
+1)Git
+  I watched some more videos on git commands successfully created a branch
+  and merge it with the main branch.
+
+2) I went through the code base of ORAD project and checked out what are all the api's
+   used. I didn't got the devomni access yet, so I'm unable to check how the code
+   works in the frontend.

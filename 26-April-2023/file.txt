@@ -1,0 +1,6 @@
+1)Annalect-Report builder project
+  In morning I went through the project documentation in confluence page and 
+  I integrated wsl with vscode.But I can't run the project in wsl it is asking
+  for passkey and it is not working
+
+2)In afternoon session I took a leave due to sickness.
