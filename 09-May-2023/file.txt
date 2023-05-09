@@ -1,0 +1,2 @@
+1)Created api calls for datasoure model(only GET and POST).
+2)Learnt how to work with PGadmin.
