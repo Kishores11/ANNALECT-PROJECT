@@ -1,0 +1,2 @@
+1)Completed the types of loggin task assigned in jira.
+2)Created api's for performing CRUD operation (datasource table)
