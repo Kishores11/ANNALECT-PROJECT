@@ -1,0 +1,2 @@
+1)Worked on data DataSource Field model and created api for that.
+2)Readed about how to create configuration in Flask.
