@@ -1,0 +1,3 @@
+1)Implemented bulk delete feature on data source report type field mapping.
+2)Learnt about cascade delete function.
+3)Worked on handling errors.
