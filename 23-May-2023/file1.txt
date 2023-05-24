@@ -1,0 +1,4 @@
+1)Read documentation on flask migration.
+2)Prepared documentation on PEP8 standards.
+3)Implemented cascade deleted feature on data source field model but when trying to run
+  the command flask db migration it is showing errors and the migration file is not creating.
